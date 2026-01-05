@@ -9,7 +9,7 @@ Mod / Rules for NCAA NEXT using real historical players and more
 * Rosters with real players from the 1985 - 2005 seasons.
 * 12 team playoff
 * Conference promotion/relegation
-* Optional "House Rules"
+* Optional "House Rules" for added challenge.
 
 
 
