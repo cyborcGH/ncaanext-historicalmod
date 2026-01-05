@@ -6,7 +6,7 @@ This modification is based on the excellent NCAA NEXT '26 mod for NCAA 06.
 ## Requirements:
 * NCAA Next 26 ISO (16.4 as of this writing) https://github.com/ncaanext/ncaa-next-26/releases
 * antdroid's db editor: https://github.com/antdroidx/NCAA-DB-Editor/releases/
-* Talon42's Dynasty Manager https://github.com/Talon42/ncaa-next-dynasty-tracker
+* (optional but HIGHLY recommended) Talon42's Dynasty Manager https://github.com/Talon42/ncaa-next-dynasty-tracker
 * antroidx's Ncaa Next tuning app: https://github.com/ncaanext/NCAANext-TuningApp/releases
 
 
