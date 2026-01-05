@@ -111,6 +111,12 @@ T2 Final - Pop Tart Bowl
 * All other bowl games have been disabled.
 * This mod requires lots of manual DB editing every season. Having fewer bowl games reduces complexity in shuffling around teams.
 
+### Optional "House Rules"
+
+* You can only have one 99 OVR player on the field at any time. (Exception for special teams if your K or P is 99.)
+* You can only have one 99 OVR player on your team per season
+* Transfer portal enabled and set to HIGH.
+
 
 
 
