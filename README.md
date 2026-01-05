@@ -1,8 +1,12 @@
-# ncaanext-historicalmod
-Mod / Rules for NCAA NEXT using real historical players and more
+
 # NCAA NEXT '26  1985-2005 Historical Mod
 
+This modification is based on the excellent NCAA NEXT '26 mod for NCAA 06.
 
+## Requirements:
+* NCAA Next 26 ISO (16.4 as of this writing)
+* antdroid's db editor
+* NCAA Next Dynasty Manager
 
 
 ## Features
